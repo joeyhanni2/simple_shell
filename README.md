@@ -1,2 +1,1 @@
-# simple_shell
-c proramming repo
+simple_shell
